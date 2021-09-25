@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_url_sync_base">http://vb09-something.appspot.com/waiter/</string>
+	
+	<string name="app_url_sync_getTables">getTables</string>
+	<string name="app_url_sync_getWaiters">getWaiters</string>
+	<string name="app_url_sync_getCategories">getCategories</string>
+	<string name="app_url_sync_getArticles">getArticles</string>
+	<string name="app_url_sync_getExtras">getExtras</string>
+	<string name="app_url_sync_getFavorites">getFavorites</string>
+	
+	<string name="app_url_sendOrder">sendOrder</string>
+	<string name="app_url_sendStorno">sendStorno</string>
+</resources>

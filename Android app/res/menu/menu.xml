@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/Synchronize" android:id="@+id/menuItemSynchronize" />
+    <item android:title="@string/LogInOut" android:id="@+id/menuItemLogInOut" />
+    <item android:title="@string/Storno" android:id="@+id/menuItemStorno" />
+</menu>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent" android:orientation="horizontal" android:layout_height="wrap_content" android:gravity="center_vertical">
+
+<TextView android:layout_height="wrap_content" android:layout_width="50dip" android:id="@+id/TextViewQuantity" android:textSize="20dip" android:textColor="@drawable/White"></TextView><TextView android:layout_height="wrap_content" android:layout_width="fill_parent" android:layout_weight="1.0" android:id="@+id/TextViewName" android:textColor="@drawable/White" android:textSize="20dp" android:padding="2dp"></TextView>
+<TextView android:id="@+id/TextViewId" android:layout_width="30dp" android:textColor="@drawable/Red" android:textSize="20dp" android:layout_height="wrap_content" android:gravity="right"></TextView><LinearLayout android:layout_width="10dp" android:layout_height="fill_parent" android:id="@+id/LinearLayoutDummy"></LinearLayout><Button android:layout_height="wrap_content" android:text="@string/PlusSign" android:layout_width="50dip" android:id="@+id/ButtonIncrement"></Button>
+<Button android:layout_height="wrap_content" android:text="@string/MinusSign" android:layout_width="50dip" android:id="@+id/ButtonDecrement"></Button>
+
+
+
+</LinearLayout>
